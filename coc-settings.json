@@ -48,5 +48,6 @@
     }
   },
 
-  "jedi.jediSettings.autoImportModules": ["numpy", "pandas"]
+  "jedi.jediSettings.autoImportModules": ["numpy", "pandas"],
+  "jedi.markupKindPreferred": "plaintext"
 }
